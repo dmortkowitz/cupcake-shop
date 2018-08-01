@@ -1,0 +1,18 @@
+.flashy{
+  color: red;
+  font-style: italic;
+
+}
+
+.best{
+  font-size: 75px;
+  color: blue;
+  font-weight: bold;
+
+}
+
+img{
+  height: 400px;
+  width: 500px;
+  text-align: center;
+}
